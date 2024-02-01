@@ -1,0 +1,10 @@
+{
+	"id": "obsidian-notion",
+	"name": "Obsidian to Notion Sync",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "",
+	"author": "Quan Phan",
+	"authorUrl": "https://github.com/quanphan2906",
+	"isDesktopOnly": false
+}
